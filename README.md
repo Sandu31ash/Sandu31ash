@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanduni</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<img src="https://i.pinimg.com/originals/45/67/e7/4567e7d3eb6515e6f6ebf0caaad0f79b.jpg">
+<img src="[https://i.pinimg.com/originals/45/67/e7/4567e7d3eb6515e6f6ebf0caaad0f79b.jpg](https://i.pinimg.com/564x/99/a5/e7/99a5e7a60caa5c1dad9aa4cfd3d62446.jpg)">
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/Sandu31ash/my-portfolio)
 
