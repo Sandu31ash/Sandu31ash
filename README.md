@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 <img src="https://i.pinimg.com/564x/99/a5/e7/99a5e7a60caa5c1dad9aa4cfd3d62446.jpg">
+<img src="https://i.pinimg.com/564x/2c/cf/1d/2ccf1d0d90fc122ef389fae91b356a9c.jpg">  
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/Sandu31ash/my-portfolio)
 
