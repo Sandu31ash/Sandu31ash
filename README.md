@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/Sandu31ash/my-portfolio)
 
-- 🌱 I’m currently learning **Internet Technologies**
+- 🌱 I’m currently learning **Advanced API Development**
 
 - 👨‍💻 All of my projects are available at [http://localhost:63342/my_portfolio/index.html?_ijt=glqclnbrfuf5jovtanh4ldbuah&_ij_reload=RELOAD_ON_SAVE](http://localhost:63342/my_portfolio/index.html?_ijt=glqclnbrfuf5jovtanh4ldbuah&_ij_reload=RELOAD_ON_SAVE)
 
