@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated software engineering undergratuate from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandu31ash&label=Profile%20views&color=0e75b6&style=flat" alt="sandu31ash" /> </p>
-
+<img align="center" src="https://i.pinimg.com/originals/2e/f5/94/2ef594a58dc16c9e4728c47ed244b4f5.jpg" height="30" width="40" />
 <img src="https://i.pinimg.com/originals/2e/f5/94/2ef594a58dc16c9e4728c47ed244b4f5.jpg" alt="coding"/>
 
 - 🔭 I’m currently working on [Destinique](https://github.com/Sandu31ash/my-portfolio)
