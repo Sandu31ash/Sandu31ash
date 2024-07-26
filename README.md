@@ -24,8 +24,8 @@
 - ⚡ Fun fact **Don't make coding boring😒, make it fun😉. Try listening to your fav song 🎧 and having a cup of warm coffee ☕ while coding, maybe make you feel better 😇**
 
 ### Blogs posts
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/sanduni-h-b0255a27b/](https://medium.com/@CelestialDevStory/how-to-add-a-project-to-new-github-repository-815ede7871e5)" target="blank"></a>
-<a href="https://medium.com/@CelestialDevStory/how-to-ping-a-pc-on-a-different-subnet-using-cisco-packet-tracer-8b51dd21379d" target="blank"></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/sanduni-h-b0255a27b/](https://medium.com/@CelestialDevStory/how-to-add-a-project-to-new-github-repository-815ede7871e5)" target="blank">Medium Blog 1</a>
+<a href="https://medium.com/@CelestialDevStory/how-to-ping-a-pc-on-a-different-subnet-using-cisco-packet-tracer-8b51dd21379d" target="blank">Medium Blog 2</a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
