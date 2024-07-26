@@ -1,9 +1,9 @@
 <h1 align="center">Hey 😎, I'm Sanduni</h1>
 <h3 align="center">A dedicated software engineering undergratuate from Sri Lanka</h3>
 
-![81bd4b29a1c1e2c3cc9d22c8742505fe-removebg-preview (4)](https://github.com/Sandu31ash/Sandu31ash/assets/125723270/35f8a969-c349-4828-a30c-514082954699)
+<img src="https://www.pinterest.com/pin/3166662231626478/"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandu31ash&label=Profile%20views&color=0e75b6&style=flat" alt="sandu31ash" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandu31ash&label=Profile%20views&color=0e75b6&style=flat" alt="sandu31ash" /> </p>
 
 - 🔭 I’m currently working on [Destinique](https://github.com/Sandu31ash/my-portfolio)
 
