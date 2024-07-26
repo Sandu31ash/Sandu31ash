@@ -25,6 +25,7 @@
 
 ### Blogs posts
 [<a href="https://medium.com/@CelestialDevStory/how-to-ping-a-pc-on-a-different-subnet-using-cisco-packet-tracer-8b51dd21379d" target="blank">Medium Blog 1</a>](https://medium.com/@CelestialDevStory/how-to-add-a-project-to-new-github-repository-815ede7871e5)
+
 <a href="https://medium.com/@CelestialDevStory/how-to-ping-a-pc-on-a-different-subnet-using-cisco-packet-tracer-8b51dd21379d" target="blank">Medium Blog 2</a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
