@@ -6,10 +6,8 @@
 
 ---
 
-![30a03741515fe8103384dc219cf51cef](https://github.com/user-attachments/assets/41c8a5df-6d3f-4cbb-a059-0440fb8ebb0b)
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41c8a5df-6d3f-4cbb-a059-0440fb8ebb0b" alt="description of image">
+  <img src="https://github.com/user-attachments/assets/41c8a5df-6d3f-4cbb-a059-0440fb8ebb0b" alt="coding girl" width=100 height=100>
 </p>
 
 - 🔭 I’m currently working on [Destinique](https://github.com/Sandu31ash/my-portfolio)
