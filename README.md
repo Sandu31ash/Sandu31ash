@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41c8a5df-6d3f-4cbb-a059-0440fb8ebb0b" alt="coding girl" width=300 height=300>
+  <img src="https://github.com/user-attachments/assets/41c8a5df-6d3f-4cbb-a059-0440fb8ebb0b" alt="coding girl" width=500 height=500>
 </p>
 
 - 🔭 I’m currently working on [Destinique](https://github.com/Sandu31ash/my-portfolio)
