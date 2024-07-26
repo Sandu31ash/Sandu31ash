@@ -1,9 +1,13 @@
 <h1 align="center">Hey 😎, I'm Sanduni</h1>
 <h3 align="center">An enthusiastic software engineering undergratuate from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandu31ash&label=Profile%20views&color=0e75b6&style=flat" alt="sandu31ash" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc![30a03741515fe8103384dc219cf51cef](https://github.com/user-attachments/assets/127ca9b9-5b82-4ad4-a559-cf9386d3b91f)
+/?username=sandu31ash&label=Profile%20views&color=0e75b6&style=flat" alt="sandu31ash" /> </p>
 
 ---
+
+![Uploading 30a03741515fe8103384dc219cf51cef.jpg…]()
+
 
 <img src="[https://i.pinimg.com/originals/8b/2b/f9/8b2bf9c5f5bc4d16711bbf79dfaf5b8d.jpg](https://i.pinimg.com/736x/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg)"/>
 
