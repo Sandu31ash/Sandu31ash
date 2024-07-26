@@ -8,7 +8,7 @@
 <img src="[https://i.pinimg.com/originals/8b/2b/f9/8b2bf9c5f5bc4d16711bbf79dfaf5b8d.jpg](https://i.pinimg.com/736x/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg)"/>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8b/2b/f9/8b2bf9c5f5bc4d16711bbf79dfaf5b8d.jpg" alt="coding" width="600"/>
+  <img src="[https://i.pinimg.com/originals/8b/2b/f9/8b2bf9c5f5bc4d16711bbf79dfaf5b8d.jpg](https://imgur.com/a/hUMmm5B)" alt="coding" width="600"/>
 </p>
 
 - 🔭 I’m currently working on [Destinique](https://github.com/Sandu31ash/my-portfolio)
