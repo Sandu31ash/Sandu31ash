@@ -1,5 +1,5 @@
 <h1 align="center">Hey 😎, I'm Sanduni</h1>
-<h3 align="center">An enthusiastic software engineering undergratuate from Sri Lanka</h3>
+<h3 align="center">An enthusiastic software engineering intern from Sri Lanka</h3>
 
 ---
 
@@ -9,21 +9,21 @@
 
 - 🔭 I’m currently working on [Destinique](https://github.com/Sandu31ash/my-portfolio)
 
-- 🌱 I’m currently learning **Advanced API Development**
+- 🌱 I’m currently learning **Machine Learning and Web Services**
 
 - 👨‍💻 All of my projects are available at [http://sandu.infinityfreeapp.com/](http://sandu.infinityfreeapp.com/)
 
 - 📝 I regularly write articles on [https://medium.com/p/8b51dd21379d](https://medium.com/p/8b51dd21379d)
 
-- 💬 Ask me about **Java, HTML, CSS, JS, ReactNative**
+- 💬 Ask me about **Java, HTML, CSS, JS, ReactNative, Kotlin, Angular, Android, TypeScript**
 
 - 📫 How to reach me **hazinika253127ash@gmail.com**
 
 - 📄 Know about my experiences [http://sandu.infinityfreeapp.com/assests/pdf/cv.pdf](http://sandu.infinityfreeapp.com/assests/pdf/cv.pdf)
 
-- ⚡ Fun fact **Don't make coding boring😒, make it fun😉. Try listening to your fav song 🎧 and having a cup of warm coffee ☕ while coding, maybe make you feel better 😇**
+- ⚡ Fun fact **Don't make coding boring😒, make it fun😉. Try listening to your fav song 🎧 and having a cup of hot coffee ☕ while coding, maybe make you feel better 😇**
 
-### Blogs posts
+### Blog posts
 [<a href="https://medium.com/@CelestialDevStory/how-to-ping-a-pc-on-a-different-subnet-using-cisco-packet-tracer-8b51dd21379d" target="blank">Medium Blog 1</a>](https://medium.com/@CelestialDevStory/how-to-add-a-project-to-new-github-repository-815ede7871e5)
 
 <a href="https://medium.com/@CelestialDevStory/how-to-ping-a-pc-on-a-different-subnet-using-cisco-packet-tracer-8b51dd21379d" target="blank">Medium Blog 2</a>
