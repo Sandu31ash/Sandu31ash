@@ -7,15 +7,19 @@
   <img src="https://github.com/user-attachments/assets/41c8a5df-6d3f-4cbb-a059-0440fb8ebb0b" alt="coding girl" width=500 height=500>
 </p>
 
-- 🔭 I’m currently working on [Destinique](https://github.com/Sandu31ash/my-portfolio)
+- 👩🏼‍💻 I’m currently working as a **Associate Software Engineer (Business Analyst)**
+ 
+- 📄 Ask me about documentation — SRS documents, project proposals, BRDs, and all things related to project documentation!
 
-- 🌱 I’m currently learning **Machine Learning and Web Services**
+- 🔭 I’m currently working on **Python Documentation Project**
+
+- 🌱 I’m currently pursuing my **BSc(Hons) Software Engineering Degree**
 
 - 👨‍💻 All of my projects are available at [http://sandu.infinityfreeapp.com/](http://sandu.infinityfreeapp.com/)
 
 - 📝 I regularly write articles on [https://medium.com/p/8b51dd21379d](https://medium.com/p/8b51dd21379d)
 
-- 💬 Ask me about **Java, HTML, CSS, JS, ReactNative, Kotlin, Angular, Android, TypeScript**
+- 💬 Ask me about **Java, HTML, CSS, JS, ReactNative, Kotlin, Angular, Android, TypeScript, Python**
 
 - 📫 How to reach me **hazinika253127ash@gmail.com**
 
