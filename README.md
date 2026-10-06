@@ -1,5 +1,5 @@
 <h1 align="center">Hey 😎, I'm Sanduni</h1>
-<h3 align="center">An enthusiastic software engineering intern from Sri Lanka</h3>
+<h3 align="center">An enthusiastic software engineer from Sri Lanka</h3>
 
 ---
 
@@ -8,12 +8,12 @@
 </p>
 
 - 👩🏼‍💻 I’m currently working as a **Associate Software Engineer (Business Analyst)**
+
+- 🌱 I have completed my **BSc(Honours) Software Engineering Degree** with a First Class
  
 - 📄 Ask me about documentation — SRS documents, project proposals, BRDs, and all things related to project documentation!
 
 - 🔭 I’m currently working on **Python Documentation Project**
-
-- 🌱 I’m currently pursuing my **BSc(Hons) Software Engineering Degree**
 
 - 👨‍💻 All of my projects are available at [http://sandu.infinityfreeapp.com/](http://sandu.infinityfreeapp.com/)
 
